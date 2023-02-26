@@ -1,0 +1,105 @@
+
+
+
+body{
+    background-color: #DBE2EF;
+}
+
+h1 {
+    text-align: center;
+    border: solid black;
+    font-family: 'Shantell Sans', cursive;
+    font-size: 50px;
+    background: #3F72B0;
+    color: #DBE2EF;
+    margin-left: 188px;
+    margin-right: 188px;
+}
+
+.imagen {
+    border: solid black;
+    border-radius: 80px;
+    margin-top: -24px;
+}
+
+.fotonombre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Shantell Sans', cursive;
+}
+
+h2 {
+    color: black;
+    font-size: 32px;
+    margin-top: 4px;
+    text-decoration: underline;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.datosgen {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+
+.datosusuar {
+    border: solid black;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #3F72AF;
+    color: #DBE2EF;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.bontonsito {
+    background-color: #3F72B0;
+    font-size: 20px;
+    font-family: 'Shantell Sans', cursive;
+    border-radius: 20px;
+    color: #DBE2EF;
+    cursor: pointer;
+
+}
+
+.datoEstudio {
+    border: solid black;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #3F72AF;
+    color: #DBE2EF;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.datoExp {
+    border: solid black;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #3F72AF;
+    color: #DBE2EF;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.botonOcultar {
+    background-color: #DBE2EF;
+    font-size: 20px;
+    font-family: 'Shantell Sans', cursive;
+    border-radius: 20px;
+    color: #3F72B0;
+    cursor: pointer;
+}
+
+h3 {
+    font-family: 'Shantell Sans', cursive;
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+.parrafaso {
+    font-family: 'Shantell Sans', cursive;
+    
+}
